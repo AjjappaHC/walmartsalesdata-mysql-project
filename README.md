@@ -1,4 +1,5 @@
-![image](https://github.com/AjjappaHC/walmartsalesdata-mysql-project/assets/174999010/43eca288-5e0d-4b58-9ace-ca20ed0cf474)# walmartsalesdata-mysql-project
+ # walmartsalesdata-mysql-project
+ 
 WalMart_sales_data _analysis/ mysql
 
 ABOUT:
@@ -9,6 +10,8 @@ The major aim of thie project is to gain insight into the sales data of Walmart 
 
 About Data
 The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition. This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows:
+
+![image](https://github.com/AjjappaHC/walmartsalesdata-mysql-project/assets/174999010/43eca288-5e0d-4b58-9ace-ca20ed0cf474)
 
 Analysis List: 
 1.Product Analysis
