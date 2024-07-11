@@ -42,7 +42,7 @@ Approach Used:
                     3.Select columns with null values in them. There are no null values in our database as in creating the tables, we set NOT NULL for each field, hence null values are 
                       filtered out.
   
-  * Feature Engineering: This will help use generate some new columns from existing ones.
+  * Feature Engineering: This will help us to generate some new columns from existing ones.
   
                      1.Add a new column named time_of_day to give insight of sales in the Morning, Afternoon and Evening. This will help answer the question on which part of the day most 
                        sales are made.
